@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dorsahjr
-- 👀 I’m interested in software engineering 
-- 🌱 I’m currently learning software engineering with ALX
-- 💞️ I’m looking to collaborate on software projects 
+- 👀 I’m an aspiring cloud secuiry engineer
+- 🌱 I’m an AWS cloud practitioner, currently learning AWS solutions architect
+- 💞️ I’m looking to collaborate on cloud/cybersecurity projects
 - 📫 How to reach me dorsahgaribajr@yahoo.com
 
 <!---
